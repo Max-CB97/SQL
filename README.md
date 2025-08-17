@@ -1,4 +1,4 @@
 # SQL Portfolio
-**Hello!** My name's Max and this is going to be my portfolio containing all the projects I've worked on in SQL. 
-If you have any questions you'd like to ask me, 
-feel free to reach out to me at **maxwellcbrown1@gmail.com**
+**Hello!** 
+This is going to be where I'm going to be organizing and archiving all my SQL projects.  
+If you'd like to ask me a question feel free to reach out to me at **maxwellcbrown1@gmail.com**
